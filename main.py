@@ -64,6 +64,7 @@ def read_root():
                 .cards { grid-template-columns: 1fr; }
             }
         </style>
+        <script defer src="https://cdn.vercel-insights.com/v1/script.js"></script>
     </head>
     <body>
         <header>
